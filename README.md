@@ -295,8 +295,8 @@ The following are intentional MVP exclusions — not bugs.
 
 | Name | Role | Background |
 |---|---|---|
-| Geoff McAlister | Founder & CEO | Goldman Sachs / FAB pedigree. Institutional capital markets. UAE banking relationships. Active engagement with Emirates NBD and Blackstone LOI. |
-| Holdex.io | Development Partner | Smart contract development and frontend implementation. Avalanche ecosystem experience. |
+| Geoff McAlister | MiPool Founder & CEO | Goldman Sachs / FAB pedigree and former MD & Head of Hex Trust Markets & Group Chief Risk Officer at M2 Exchange. Institutional capital markets. UAE banking relationships. Active engagement with Emirates NBD and Blackstone, LOI being discussed. |
+| Vadim Zolotokrylin | MiPool CTO & Development Partner (CEO Holdex.io) | Smart contract development and frontend implementation. Avalanche ecosystem experience (Clearpool.Finance). |
 
 ---
 

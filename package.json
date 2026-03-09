@@ -14,16 +14,21 @@
     "gas": "REPORT_GAS=true hardhat test",
     "lint": "solhint 'contracts/**/*.sol'"
   },
-  "dependencies": {},
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@nomicfoundation/hardhat-verify": "^2.0.0",
     "@openzeppelin/contracts": "^5.0.0",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.6.1",
     "hardhat": "^2.22.0",
     "solhint": "^5.0.0"
   },
-  "keywords": ["avalanche", "rwa", "mortgage", "defi", "tokenisation"],
+  "keywords": [
+    "avalanche",
+    "rwa",
+    "mortgage",
+    "defi",
+    "tokenisation"
+  ],
   "author": "MiPool Protocol",
   "license": "MIT"
 }
